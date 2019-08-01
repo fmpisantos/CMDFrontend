@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    white-space: pre-wrap;
+}
+
+.cmd{
+    text-align: left;
+    background-color: black;
+    color: white;
+    overflow-y : scroll;
+    outline: none;
+    border-width:0px;
+    border:none;
+    max-height: 85vh;
+}
+
+.span{
+    line-height: 12px;
+    height:12px;
+}
